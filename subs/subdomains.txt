@@ -234,7 +234,6 @@ buffalo.regency.hyatt.com
 burlington.house.hyatt.com
 burlington.summerfieldsuites.hyatt.com
 busan.park.hyatt.com
-	       by @gwendallecoguic                          
 caapi.hyatt.com
 cafe.reservation.hyatt.com
 ca.hyatt.com
