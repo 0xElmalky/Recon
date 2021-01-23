@@ -1,0 +1,17 @@
+https://www.hyatt.com/?adm=FFUF&mckv=FFUF&src=FFUF
+https://www.hyatt.com/de-DE/home/?adm=FFUF&mckv=FFUF&src=FFUF
+https://www.hyatt.com/en-US/hotel/canada/hyatt-regency-toronto/torrt?adm=FFUF&mckv=FFUF&src=FFUF
+https://www.hyatt.com/en-US/hotel/colorado/grand-hyatt-denver/denrd?adm=FFUF&mckv=FFUF&src=FFUF
+https://www.hyatt.com/es-ES/home/?adm=FFUF&mckv=FFUF&src=FFUF
+https://www.hyatt.com/gp/en/benefits/o.id=i;o.defer=true;o.onload=o.onreadystatechange=f1;o.f2=f2;o.l=0;
+https://www.hyatt.com/HyattSearch?BRAND=FFUF&Chain=FFUF&Shell=FFUF&Template=FFUF&adults=FFUF&checkinDate=FFUF&checkoutDate=FFUF&filter=FFUF&locale=FFUF&rate=FFUF&rooms=FFUF&spiritCode=FFUF
+https://www.hyatt.com/ja-JP/home/?adm=FFUF&mckv=FFUF&src=FFUF
+https://www.hyatt.com/ko-KR/home/?adm=FFUF&mckv=FFUF&src=FFUF
+https://www.hyatt.com/pt-PT/home/?adm=FFUF&mckv=FFUF&src=FFUF
+http://www.hyatt.com:80/?adm=FFUF&src=FFUF
+http://www.hyatt.com:80/gp/en/index.jsp?adm=FFUF&mckv=FFUF&src=FFUF
+http://www.hyatt.com:80/hyatt/index.jsp?adm=FFUF&mckv=FFUF&src=FFUF
+http://www.hyatt.com:80/hyatt/index.jsp?adm=FFUF&src=FFUF
+http://www.hyatt.com:80/hyatt/specials/offers/offer-details_hotels_20.jsp?adm=FFUF&offerId=FFUF&src=FFUF
+http://www.hyatt.com/hyatt/avia/default.htm?load=FFUF
+http://www.hyatt.com/hyatt/o.id=i;o.defer=true;o.onload=o.onreadystatechange=f1;o.f2=f2;o.l=0;
